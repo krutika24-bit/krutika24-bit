@@ -1,99 +1,113 @@
 <!-- ========================================================= -->
-<!--                 KRUTIKA 24-BIT PROFILE README             -->
+<!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
+
+<h2 align="center">👩‍💻 About Me</h2>
 
 <div align="center">
 
-# 👋 Hey, I'm Krutika
-
-### ✨ Turning Ideas Into Code • Learning • Building • Creating
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=220&section=header&text=KRUTIKA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Creator&descAlignY=58&descSize=20" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Building+Ideas+Into+Reality+%F0%9F%92%BB;Learning+Something+New+Every+Day+%F0%9F%8C%B1;Exploring+Technology+%26+Innovation+%F0%9F%9A%80;Code.+Create.+Learn.+Repeat.+%E2%9C%A8" alt="Typing SVG"/>
-
-<br>
-
-<a href="https://github.com/krutika24-bit">
-<img src="https://img.shields.io/github/followers/krutika24-bit?label=Followers&style=for-the-badge&logo=github&color=7F00FF"/>
-</a>
-
-<a href="https://github.com/krutika24-bit?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-00C6FF?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/krutika24-bit">
-<img src="https://komarev.com/ghpvc/?username=krutika24-bit&label=Profile%20Views&color=00F5A0&style=for-the-badge"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Krutika+%F0%9F%91%8B;Developer+%7C+Learner+%7C+Creator;Turning+Ideas+Into+Digital+Experiences+%F0%9F%9A%80" />
 
 </div>
 
----
+<br>
 
-# 🧑‍💻 About Me
+<div align="center">
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%" valign="top">
 
-### 👋 Hello World!
+<h3>🌟 Hello World!</h3>
 
-I'm **Krutika**, a technology enthusiast who enjoys exploring the world of software development, learning new technologies, and turning ideas into practical digital experiences.
+<p>
+I'm <b>Krutika</b>, a technology enthusiast who enjoys exploring the world of software development, learning new technologies, and turning ideas into practical digital experiences.
+</p>
 
-I believe that development is not just about writing code — it's about:
-
-> 💡 Understanding problems  
-> 🧠 Thinking creatively  
-> 🛠️ Building solutions  
-> 🚀 Improving continuously
-
-I'm constantly experimenting, learning, and improving my development skills through projects and hands-on experience.
+<p>
+I believe development is more than just writing code. It's about understanding problems, thinking creatively, building meaningful solutions, and continuously improving.
+</p>
 
 </td>
 
-<td width="45%">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krutika24-bit&bg_color=0d1117&color=7F00FF&line=00C6FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+<h3>🚀 My Approach</h3>
+
+<p>💡 <b>Understand</b> — Break complex problems into smaller pieces.</p>
+
+<p>🧠 <b>Think</b> — Explore creative and efficient solutions.</p>
+
+<p>🛠️ <b>Build</b> — Turn ideas into functional projects.</p>
+
+<p>🧪 <b>Experiment</b> — Learn through hands-on experience.</p>
+
+<p>🚀 <b>Improve</b> — Keep making every project better.</p>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-# 🚀 What I'm Interested In
+<br>
 
 <div align="center">
 
-| 💻 Development | 🎨 Creativity | 🧠 Learning | 🚀 Innovation |
-|:---:|:---:|:---:|:---:|
-| Building Applications | UI & UX | New Technologies | Problem Solving |
-| Web Experiences | Design Thinking | Programming | Real-World Solutions |
-| Software Projects | Digital Products | Continuous Growth | Experimentation |
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+## 💻
+
+### BUILD
+
+Creating projects and experimenting with technology.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### LEARN
+
+Exploring new concepts, tools and development practices.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🎨
+
+### CREATE
+
+Combining technology with creativity and design.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🚀
+
+### GROW
+
+Improving through every project and challenge.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
+<br>
 
-# 🧩 My Development Philosophy
+<div align="center">
 
-```text
-        ┌─────────────────────────────────────────┐
-        │                                         │
-        │              💡 IDEA                    │
-        │                ↓                        │
-        │            🧠 EXPLORE                   │
-        │                ↓                        │
-        │             🛠️ BUILD                    │
-        │                ↓                        │
-        │             🧪 TEST                     │
-        │                ↓                        │
-        │            🚀 IMPROVE                   │
-        │                ↓                        │
-        │            🌎 DEPLOY                    │
-        │                ↓                        │
-        │            ✨ REPEAT                    │
-        │                                         │
-        └─────────────────────────────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%">
+
+### ✨ `Code` • `Create` • `Learn` • `Improve` • `Repeat`
+
+</div>
